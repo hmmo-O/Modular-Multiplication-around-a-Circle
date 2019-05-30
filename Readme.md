@@ -1,6 +1,6 @@
 Inspired from [Mathologer’s video about Times Tables](https://www.youtube.com/watch?v=qhbuKbxJsk8) and [Michael's DONG video](https://www.youtube.com/watch?v=eXUUClgd-Eo).
 
-Number of Points and Multiplication factor play a key role in this code. The idea is to place equidistant points on the perimeter and connecting/drawing a line between two points with respect to the multiplication factor. The afore mentioned [video](https://www.youtube.com/watch?v=qhbuKbxJsk8) explains this in detail. This simple analogy creates beautiful math patterns, shown below.
+Number of Points and Multiplication factor play a key role in this algorithm. The idea is to place equidistant points on the perimeter of a circle and connect/draw a line between two points with respect to the multiplication factor. The afore mentioned [video](https://www.youtube.com/watch?v=qhbuKbxJsk8) explains this phenomenon in more detail. This simple analogy creates beautiful math realted patterns, shown below.
 
 By increasing the number of points from 1 to 100 and setting the multiplication factor to a nnumber, the following patterns are observed.
 
