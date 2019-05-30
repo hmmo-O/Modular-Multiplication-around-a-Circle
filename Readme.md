@@ -21,3 +21,5 @@ By increasing the multiplication factor and setting the points to a constant:
 ![5](https://user-images.githubusercontent.com/39982386/58663484-3d151880-82f2-11e9-8676-cc5b44611a55.gif)
 
 [Red Blob Games](https://www.redblobgames.com/x/1847-mathologer-modulo-circle/#N=99&M=2&color=angle) have done a better animation.
+
+This project has been a great practice for Python and has also been a good example for visualizing a simple math problem.
